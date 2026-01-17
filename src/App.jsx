@@ -1,6 +1,6 @@
 
 import styles from './App.module.css';
-import Display from './component/display';
+import Display from './component/Display';
 import ButtonContainer from './component/ButtonContainer';
 import {useState} from "react";
 
